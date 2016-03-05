@@ -6,4 +6,6 @@ brew install Caskroom/cask/google-chrome
 brew install Caskroom/cask/pycharm
 brew install Caskroom/cask/java
 brew install python3
+brew install Caskroom/cask/eclipse-java
+brew install Caskroom/cask/skype
 brew tap caskroom/cask
