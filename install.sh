@@ -8,4 +8,6 @@ brew install Caskroom/cask/java
 brew install python3
 brew install Caskroom/cask/eclipse-java
 brew install Caskroom/cask/skype
+brew install Caskroom/cask/battle-net
+brew install Caskroom/cask/steam
 brew tap caskroom/cask
