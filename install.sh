@@ -10,4 +10,5 @@ brew install Caskroom/cask/eclipse-java
 brew install Caskroom/cask/skype
 brew install Caskroom/cask/battle-net
 brew install Caskroom/cask/steam
+brew install npm
 brew tap caskroom/cask
